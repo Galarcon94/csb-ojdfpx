@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://galarcon94.github.io/csb-ojdfpx/static/css/main.9fc0aaca.chunk.css",
+    "main.js": "https://galarcon94.github.io/csb-ojdfpx/static/js/main.ab6d9111.chunk.js",
+    "main.js.map": "https://galarcon94.github.io/csb-ojdfpx/static/js/main.ab6d9111.chunk.js.map",
+    "runtime-main.js": "https://galarcon94.github.io/csb-ojdfpx/static/js/runtime-main.521ff175.js",
+    "runtime-main.js.map": "https://galarcon94.github.io/csb-ojdfpx/static/js/runtime-main.521ff175.js.map",
+    "static/js/2.f3371e0b.chunk.js": "https://galarcon94.github.io/csb-ojdfpx/static/js/2.f3371e0b.chunk.js",
+    "static/js/2.f3371e0b.chunk.js.map": "https://galarcon94.github.io/csb-ojdfpx/static/js/2.f3371e0b.chunk.js.map",
+    "index.html": "https://galarcon94.github.io/csb-ojdfpx/index.html",
+    "static/css/main.9fc0aaca.chunk.css.map": "https://galarcon94.github.io/csb-ojdfpx/static/css/main.9fc0aaca.chunk.css.map",
+    "static/js/2.f3371e0b.chunk.js.LICENSE.txt": "https://galarcon94.github.io/csb-ojdfpx/static/js/2.f3371e0b.chunk.js.LICENSE.txt",
+    "static/media/encabezado.14812c1f.png": "https://galarcon94.github.io/csb-ojdfpx/static/media/encabezado.14812c1f.png",
+    "static/media/pie.7313ab76.png": "https://galarcon94.github.io/csb-ojdfpx/static/media/pie.7313ab76.png",
+    "static/media/round.65a439b6.jpg": "https://galarcon94.github.io/csb-ojdfpx/static/media/round.65a439b6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.521ff175.js",
+    "static/js/2.f3371e0b.chunk.js",
+    "static/css/main.9fc0aaca.chunk.css",
+    "static/js/main.ab6d9111.chunk.js"
+  ]
+}
